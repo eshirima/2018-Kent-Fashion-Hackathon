@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "c607a176ef0174d47090ff18a23ff4c7"
+build_time: [1517148620, 323901000]
+inputs:
+  "/Users/espunky/Documents/Fashion/Fashion/Controllers/FrontBodyVC.swift": [1517114382, 0]
+  "/Users/espunky/Documents/Fashion/Fashion/Controllers/ManualModePVC.swift": [1517052113, 0]
+  "/Users/espunky/Documents/Fashion/Fashion/Controllers/AutoModeVC.swift": [1517046339, 0]
+  "/Users/espunky/Documents/Fashion/Fashion/Controllers/IntroPVC.swift": [1517148448, 0]
+  "/Users/espunky/Documents/Fashion/Fashion/Controllers/ViewController.swift": [1517087273, 0]
+  "/Users/espunky/Documents/Fashion/Fashion/Controllers/BackBodyVC.swift": [1517131354, 0]
+  "/Users/espunky/Documents/Fashion/Fashion/AppDelegate.swift": [1517029789, 0]

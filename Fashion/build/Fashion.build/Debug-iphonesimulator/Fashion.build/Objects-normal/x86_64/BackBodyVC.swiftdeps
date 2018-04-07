@@ -1,0 +1,650 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BackBodyVC"
+provides-nominal:
+- "7Fashion10BackBodyVCC"
+provides-member:
+- ["7Fashion10BackBodyVCC", ""]
+provides-dynamic-lookup:
+- "backLeft1"
+- "backLeft1Tapped"
+- "backLeft2"
+- "backLeft2Tapped"
+- "backLeft3"
+- "backLeft3Tapped"
+- "backLeft4"
+- "backLeft4Tapped"
+- "backLeft5"
+- "backLeft5Tapped"
+- "backLeft6"
+- "backLeft6Tapped"
+- "backRight1"
+- "backRight2"
+- "backRight3"
+- "backRight4"
+- "backRight5"
+- "backRight6"
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- !private "Array"
+- !private "AssignmentPrecedence"
+- "BackBodyVC"
+- !private "DispatchQueue"
+- !private "StringLiteralType"
+- "UIImage"
+- "UIImageView"
+- "UITapGestureRecognizer"
+- "UIViewController"
+- !private "_ImageLiteralType"
+depends-member:
+- !private ["Sa", "subscript"]
+- !private ["7Fashion10BackBodyVCC", "DispatchQueue"]
+- ["7Fashion10BackBodyVCC", "UIImage"]
+- ["7Fashion10BackBodyVCC", "UIImageView"]
+- ["7Fashion10BackBodyVCC", "UITapGestureRecognizer"]
+- ["7Fashion10BackBodyVCC", "backLeft1"]
+- ["7Fashion10BackBodyVCC", "backLeft1Tapped"]
+- ["7Fashion10BackBodyVCC", "backLeft2"]
+- ["7Fashion10BackBodyVCC", "backLeft2Tapped"]
+- ["7Fashion10BackBodyVCC", "backLeft3"]
+- ["7Fashion10BackBodyVCC", "backLeft3Tapped"]
+- ["7Fashion10BackBodyVCC", "backLeft4"]
+- ["7Fashion10BackBodyVCC", "backLeft4Tapped"]
+- ["7Fashion10BackBodyVCC", "backLeft5"]
+- ["7Fashion10BackBodyVCC", "backLeft5Tapped"]
+- ["7Fashion10BackBodyVCC", "backLeft6"]
+- ["7Fashion10BackBodyVCC", "backLeft6Tapped"]
+- ["7Fashion10BackBodyVCC", "backRight1"]
+- ["7Fashion10BackBodyVCC", "backRight2"]
+- ["7Fashion10BackBodyVCC", "backRight3"]
+- ["7Fashion10BackBodyVCC", "backRight4"]
+- ["7Fashion10BackBodyVCC", "backRight5"]
+- ["7Fashion10BackBodyVCC", "backRight6"]
+- ["7Fashion10BackBodyVCC", "deinit"]
+- ["7Fashion10BackBodyVCC", "didReceiveMemoryWarning"]
+- ["7Fashion10BackBodyVCC", "display"]
+- ["7Fashion10BackBodyVCC", "init"]
+- ["7Fashion10BackBodyVCC", "viewDidLoad"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["s7CVarArgP", "DispatchQueue"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "backLeft1"]
+- !private ["s7CVarArgP", "backLeft2"]
+- !private ["s7CVarArgP", "backLeft3"]
+- !private ["s7CVarArgP", "backLeft4"]
+- !private ["s7CVarArgP", "backLeft5"]
+- !private ["s7CVarArgP", "backLeft6"]
+- !private ["s7CVarArgP", "backRight1"]
+- !private ["s7CVarArgP", "backRight2"]
+- !private ["s7CVarArgP", "backRight3"]
+- !private ["s7CVarArgP", "backRight4"]
+- !private ["s7CVarArgP", "backRight5"]
+- !private ["s7CVarArgP", "backRight6"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "display"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "DispatchQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "backLeft1"]
+- !private ["s28CustomDebugStringConvertibleP", "backLeft2"]
+- !private ["s28CustomDebugStringConvertibleP", "backLeft3"]
+- !private ["s28CustomDebugStringConvertibleP", "backLeft4"]
+- !private ["s28CustomDebugStringConvertibleP", "backLeft5"]
+- !private ["s28CustomDebugStringConvertibleP", "backLeft6"]
+- !private ["s28CustomDebugStringConvertibleP", "backRight1"]
+- !private ["s28CustomDebugStringConvertibleP", "backRight2"]
+- !private ["s28CustomDebugStringConvertibleP", "backRight3"]
+- !private ["s28CustomDebugStringConvertibleP", "backRight4"]
+- !private ["s28CustomDebugStringConvertibleP", "backRight5"]
+- !private ["s28CustomDebugStringConvertibleP", "backRight6"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "display"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "DispatchQueue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "backLeft1"]
+- !private ["s23CustomStringConvertibleP", "backLeft2"]
+- !private ["s23CustomStringConvertibleP", "backLeft3"]
+- !private ["s23CustomStringConvertibleP", "backLeft4"]
+- !private ["s23CustomStringConvertibleP", "backLeft5"]
+- !private ["s23CustomStringConvertibleP", "backLeft6"]
+- !private ["s23CustomStringConvertibleP", "backRight1"]
+- !private ["s23CustomStringConvertibleP", "backRight2"]
+- !private ["s23CustomStringConvertibleP", "backRight3"]
+- !private ["s23CustomStringConvertibleP", "backRight4"]
+- !private ["s23CustomStringConvertibleP", "backRight5"]
+- !private ["s23CustomStringConvertibleP", "backRight6"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "display"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["So14DispatchObjectC", "async"]
+- !private ["So14DispatchObjectC", "main"]
+- !private ["So13DispatchQueueC", "async"]
+- !private ["So13DispatchQueueC", "main"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "DispatchQueue"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "async"]
+- !private ["s9EquatableP", "backLeft1"]
+- !private ["s9EquatableP", "backLeft2"]
+- !private ["s9EquatableP", "backLeft3"]
+- !private ["s9EquatableP", "backLeft4"]
+- !private ["s9EquatableP", "backLeft5"]
+- !private ["s9EquatableP", "backLeft6"]
+- !private ["s9EquatableP", "backRight1"]
+- !private ["s9EquatableP", "backRight2"]
+- !private ["s9EquatableP", "backRight3"]
+- !private ["s9EquatableP", "backRight4"]
+- !private ["s9EquatableP", "backRight5"]
+- !private ["s9EquatableP", "backRight6"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "display"]
+- !private ["s9EquatableP", "image"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "DispatchQueue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "async"]
+- !private ["s8HashableP", "backLeft1"]
+- !private ["s8HashableP", "backLeft2"]
+- !private ["s8HashableP", "backLeft3"]
+- !private ["s8HashableP", "backLeft4"]
+- !private ["s8HashableP", "backLeft5"]
+- !private ["s8HashableP", "backLeft6"]
+- !private ["s8HashableP", "backRight1"]
+- !private ["s8HashableP", "backRight2"]
+- !private ["s8HashableP", "backRight3"]
+- !private ["s8HashableP", "backRight4"]
+- !private ["s8HashableP", "backRight5"]
+- !private ["s8HashableP", "backRight6"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "display"]
+- !private ["s8HashableP", "image"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "main"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "subscript"]
+- !private ["So8NSCodingP", "DispatchQueue"]
+- !private ["So8NSCodingP", "backLeft1"]
+- !private ["So8NSCodingP", "backLeft2"]
+- !private ["So8NSCodingP", "backLeft3"]
+- !private ["So8NSCodingP", "backLeft4"]
+- !private ["So8NSCodingP", "backLeft5"]
+- !private ["So8NSCodingP", "backLeft6"]
+- !private ["So8NSCodingP", "backRight1"]
+- !private ["So8NSCodingP", "backRight2"]
+- !private ["So8NSCodingP", "backRight3"]
+- !private ["So8NSCodingP", "backRight4"]
+- !private ["So8NSCodingP", "backRight5"]
+- !private ["So8NSCodingP", "backRight6"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "display"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "DispatchQueue"]
+- !private ["So26NSExtensionRequestHandlingP", "backLeft1"]
+- !private ["So26NSExtensionRequestHandlingP", "backLeft2"]
+- !private ["So26NSExtensionRequestHandlingP", "backLeft3"]
+- !private ["So26NSExtensionRequestHandlingP", "backLeft4"]
+- !private ["So26NSExtensionRequestHandlingP", "backLeft5"]
+- !private ["So26NSExtensionRequestHandlingP", "backLeft6"]
+- !private ["So26NSExtensionRequestHandlingP", "backRight1"]
+- !private ["So26NSExtensionRequestHandlingP", "backRight2"]
+- !private ["So26NSExtensionRequestHandlingP", "backRight3"]
+- !private ["So26NSExtensionRequestHandlingP", "backRight4"]
+- !private ["So26NSExtensionRequestHandlingP", "backRight5"]
+- !private ["So26NSExtensionRequestHandlingP", "backRight6"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "display"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "DispatchQueue"]
+- ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UITapGestureRecognizer"]
+- !private ["So8NSObjectC", "async"]
+- ["So8NSObjectC", "backLeft1"]
+- ["So8NSObjectC", "backLeft1Tapped"]
+- ["So8NSObjectC", "backLeft2"]
+- ["So8NSObjectC", "backLeft2Tapped"]
+- ["So8NSObjectC", "backLeft3"]
+- ["So8NSObjectC", "backLeft3Tapped"]
+- ["So8NSObjectC", "backLeft4"]
+- ["So8NSObjectC", "backLeft4Tapped"]
+- ["So8NSObjectC", "backLeft5"]
+- ["So8NSObjectC", "backLeft5Tapped"]
+- ["So8NSObjectC", "backLeft6"]
+- ["So8NSObjectC", "backLeft6Tapped"]
+- ["So8NSObjectC", "backRight1"]
+- ["So8NSObjectC", "backRight2"]
+- ["So8NSObjectC", "backRight3"]
+- ["So8NSObjectC", "backRight4"]
+- ["So8NSObjectC", "backRight5"]
+- ["So8NSObjectC", "backRight6"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "display"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "DispatchQueue"]
+- !private ["So16NSObjectProtocolP", "async"]
+- !private ["So16NSObjectProtocolP", "backLeft1"]
+- !private ["So16NSObjectProtocolP", "backLeft2"]
+- !private ["So16NSObjectProtocolP", "backLeft3"]
+- !private ["So16NSObjectProtocolP", "backLeft4"]
+- !private ["So16NSObjectProtocolP", "backLeft5"]
+- !private ["So16NSObjectProtocolP", "backLeft6"]
+- !private ["So16NSObjectProtocolP", "backRight1"]
+- !private ["So16NSObjectProtocolP", "backRight2"]
+- !private ["So16NSObjectProtocolP", "backRight3"]
+- !private ["So16NSObjectProtocolP", "backRight4"]
+- !private ["So16NSObjectProtocolP", "backRight5"]
+- !private ["So16NSObjectProtocolP", "backRight6"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "display"]
+- !private ["So16NSObjectProtocolP", "image"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- !private ["s22RandomAccessCollectionP", "subscript"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "subscript"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So21UIAppearanceContainerP", "DispatchQueue"]
+- !private ["So21UIAppearanceContainerP", "backLeft1"]
+- !private ["So21UIAppearanceContainerP", "backLeft2"]
+- !private ["So21UIAppearanceContainerP", "backLeft3"]
+- !private ["So21UIAppearanceContainerP", "backLeft4"]
+- !private ["So21UIAppearanceContainerP", "backLeft5"]
+- !private ["So21UIAppearanceContainerP", "backLeft6"]
+- !private ["So21UIAppearanceContainerP", "backRight1"]
+- !private ["So21UIAppearanceContainerP", "backRight2"]
+- !private ["So21UIAppearanceContainerP", "backRight3"]
+- !private ["So21UIAppearanceContainerP", "backRight4"]
+- !private ["So21UIAppearanceContainerP", "backRight5"]
+- !private ["So21UIAppearanceContainerP", "backRight6"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "display"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "DispatchQueue"]
+- !private ["So18UIContentContainerP", "backLeft1"]
+- !private ["So18UIContentContainerP", "backLeft2"]
+- !private ["So18UIContentContainerP", "backLeft3"]
+- !private ["So18UIContentContainerP", "backLeft4"]
+- !private ["So18UIContentContainerP", "backLeft5"]
+- !private ["So18UIContentContainerP", "backLeft6"]
+- !private ["So18UIContentContainerP", "backRight1"]
+- !private ["So18UIContentContainerP", "backRight2"]
+- !private ["So18UIContentContainerP", "backRight3"]
+- !private ["So18UIContentContainerP", "backRight4"]
+- !private ["So18UIContentContainerP", "backRight5"]
+- !private ["So18UIContentContainerP", "backRight6"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "display"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So18UIFocusEnvironmentP", "DispatchQueue"]
+- !private ["So18UIFocusEnvironmentP", "backLeft1"]
+- !private ["So18UIFocusEnvironmentP", "backLeft2"]
+- !private ["So18UIFocusEnvironmentP", "backLeft3"]
+- !private ["So18UIFocusEnvironmentP", "backLeft4"]
+- !private ["So18UIFocusEnvironmentP", "backLeft5"]
+- !private ["So18UIFocusEnvironmentP", "backLeft6"]
+- !private ["So18UIFocusEnvironmentP", "backRight1"]
+- !private ["So18UIFocusEnvironmentP", "backRight2"]
+- !private ["So18UIFocusEnvironmentP", "backRight3"]
+- !private ["So18UIFocusEnvironmentP", "backRight4"]
+- !private ["So18UIFocusEnvironmentP", "backRight5"]
+- !private ["So18UIFocusEnvironmentP", "backRight6"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "display"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "DispatchQueue"]
+- !private ["So30UIPasteConfigurationSupportingP", "backLeft1"]
+- !private ["So30UIPasteConfigurationSupportingP", "backLeft2"]
+- !private ["So30UIPasteConfigurationSupportingP", "backLeft3"]
+- !private ["So30UIPasteConfigurationSupportingP", "backLeft4"]
+- !private ["So30UIPasteConfigurationSupportingP", "backLeft5"]
+- !private ["So30UIPasteConfigurationSupportingP", "backLeft6"]
+- !private ["So30UIPasteConfigurationSupportingP", "backRight1"]
+- !private ["So30UIPasteConfigurationSupportingP", "backRight2"]
+- !private ["So30UIPasteConfigurationSupportingP", "backRight3"]
+- !private ["So30UIPasteConfigurationSupportingP", "backRight4"]
+- !private ["So30UIPasteConfigurationSupportingP", "backRight5"]
+- !private ["So30UIPasteConfigurationSupportingP", "backRight6"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "display"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "DispatchQueue"]
+- ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UITapGestureRecognizer"]
+- ["So11UIResponderC", "backLeft1"]
+- ["So11UIResponderC", "backLeft1Tapped"]
+- ["So11UIResponderC", "backLeft2"]
+- ["So11UIResponderC", "backLeft2Tapped"]
+- ["So11UIResponderC", "backLeft3"]
+- ["So11UIResponderC", "backLeft3Tapped"]
+- ["So11UIResponderC", "backLeft4"]
+- ["So11UIResponderC", "backLeft4Tapped"]
+- ["So11UIResponderC", "backLeft5"]
+- ["So11UIResponderC", "backLeft5Tapped"]
+- ["So11UIResponderC", "backLeft6"]
+- ["So11UIResponderC", "backLeft6Tapped"]
+- ["So11UIResponderC", "backRight1"]
+- ["So11UIResponderC", "backRight2"]
+- ["So11UIResponderC", "backRight3"]
+- ["So11UIResponderC", "backRight4"]
+- ["So11UIResponderC", "backRight5"]
+- ["So11UIResponderC", "backRight6"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "display"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "DispatchQueue"]
+- !private ["So30UIResponderStandardEditActionsP", "backLeft1"]
+- !private ["So30UIResponderStandardEditActionsP", "backLeft2"]
+- !private ["So30UIResponderStandardEditActionsP", "backLeft3"]
+- !private ["So30UIResponderStandardEditActionsP", "backLeft4"]
+- !private ["So30UIResponderStandardEditActionsP", "backLeft5"]
+- !private ["So30UIResponderStandardEditActionsP", "backLeft6"]
+- !private ["So30UIResponderStandardEditActionsP", "backRight1"]
+- !private ["So30UIResponderStandardEditActionsP", "backRight2"]
+- !private ["So30UIResponderStandardEditActionsP", "backRight3"]
+- !private ["So30UIResponderStandardEditActionsP", "backRight4"]
+- !private ["So30UIResponderStandardEditActionsP", "backRight5"]
+- !private ["So30UIResponderStandardEditActionsP", "backRight6"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "display"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So16UIStateRestoringP", "DispatchQueue"]
+- !private ["So16UIStateRestoringP", "backLeft1"]
+- !private ["So16UIStateRestoringP", "backLeft2"]
+- !private ["So16UIStateRestoringP", "backLeft3"]
+- !private ["So16UIStateRestoringP", "backLeft4"]
+- !private ["So16UIStateRestoringP", "backLeft5"]
+- !private ["So16UIStateRestoringP", "backLeft6"]
+- !private ["So16UIStateRestoringP", "backRight1"]
+- !private ["So16UIStateRestoringP", "backRight2"]
+- !private ["So16UIStateRestoringP", "backRight3"]
+- !private ["So16UIStateRestoringP", "backRight4"]
+- !private ["So16UIStateRestoringP", "backRight5"]
+- !private ["So16UIStateRestoringP", "backRight6"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "display"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "DispatchQueue"]
+- !private ["So18UITraitEnvironmentP", "backLeft1"]
+- !private ["So18UITraitEnvironmentP", "backLeft2"]
+- !private ["So18UITraitEnvironmentP", "backLeft3"]
+- !private ["So18UITraitEnvironmentP", "backLeft4"]
+- !private ["So18UITraitEnvironmentP", "backLeft5"]
+- !private ["So18UITraitEnvironmentP", "backLeft6"]
+- !private ["So18UITraitEnvironmentP", "backRight1"]
+- !private ["So18UITraitEnvironmentP", "backRight2"]
+- !private ["So18UITraitEnvironmentP", "backRight3"]
+- !private ["So18UITraitEnvironmentP", "backRight4"]
+- !private ["So18UITraitEnvironmentP", "backRight5"]
+- !private ["So18UITraitEnvironmentP", "backRight6"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "display"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "image"]
+- !private ["So16UIViewControllerC", "DispatchQueue"]
+- ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UITapGestureRecognizer"]
+- ["So16UIViewControllerC", "backLeft1"]
+- ["So16UIViewControllerC", "backLeft1Tapped"]
+- ["So16UIViewControllerC", "backLeft2"]
+- ["So16UIViewControllerC", "backLeft2Tapped"]
+- ["So16UIViewControllerC", "backLeft3"]
+- ["So16UIViewControllerC", "backLeft3Tapped"]
+- ["So16UIViewControllerC", "backLeft4"]
+- ["So16UIViewControllerC", "backLeft4Tapped"]
+- ["So16UIViewControllerC", "backLeft5"]
+- ["So16UIViewControllerC", "backLeft5Tapped"]
+- ["So16UIViewControllerC", "backLeft6"]
+- ["So16UIViewControllerC", "backLeft6Tapped"]
+- ["So16UIViewControllerC", "backRight1"]
+- ["So16UIViewControllerC", "backRight2"]
+- ["So16UIViewControllerC", "backRight3"]
+- ["So16UIViewControllerC", "backRight4"]
+- ["So16UIViewControllerC", "backRight5"]
+- ["So16UIViewControllerC", "backRight6"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "display"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "subscript"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DispatchQueue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backLeft1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backLeft2"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backLeft3"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backLeft4"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backLeft5"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backLeft6"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backRight1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backRight2"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backRight3"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backRight4"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backRight5"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backRight6"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "display"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "subscript"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "7Fashion10BackBodyVCC"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "So14DispatchObjectC"
+- !private "So13DispatchQueueC"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So9OS_objectC"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So11UIImageViewC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "eb7b0a08ace039770851be6730970698"
